@@ -1,0 +1,1 @@
+Good task in codewars
